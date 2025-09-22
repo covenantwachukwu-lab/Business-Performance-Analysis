@@ -2,6 +2,7 @@
 
 
 ### Project Overview
+---
 
 An E-commerce company established in 2023, operates five stores strategically located across all regions of the country. This project aims to provide insights into the sales performance, customer behavior, and product trends in order to identify key revenue drivers and uncover potential issues affecting profitability. 
 

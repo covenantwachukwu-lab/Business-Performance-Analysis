@@ -6,6 +6,9 @@
 
 An E-commerce company established in 2023, operates five stores strategically located across all regions of the country. This project aims to provide insights into the sales performance, customer behavior, and product trends in order to identify key revenue drivers and uncover potential issues affecting profitability. 
 
+<img width="1484" height="708" alt="overview" src="https://github.com/user-attachments/assets/1d2b96bd-90bc-4445-bab5-7a3a86a637c1" />
+
+
 ### Data Sources
 
 EliteMart Retail Sales Dataset: The primary dataset used for the analysis is the "EliteMart_retail_sales_dataset.csv" file, containing detailed information about the company's transactions.
